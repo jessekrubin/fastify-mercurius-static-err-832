@@ -1,0 +1,17 @@
+{
+  "name": "fastify-mercurius-static-err-832",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "fastify": "^3.0.0",
+    "mercurius": "~8.12.0",
+    "@fastify/static": "^5.0.2"
+  },
+  "license": "ISC"
+}
